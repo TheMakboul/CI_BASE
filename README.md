@@ -16,11 +16,11 @@ There is also a variable included for a Facebook object if you are developing an
 
 The following files are changed from the code CI 2.1.2:
 =======================================================
-user_guide/ - Removed
-system/core/Controller.php - Modified
-system/code/Model.php - Modified
+user_guide/ - Removed<br/>
+system/core/Controller.php - Modified<br/>
+system/code/Model.php - Modified<br/>
 
 NOTE: 
 =====
-Another repo exists containing the structure for a basic facebook app using CI (v2.1.2), Facebook PHP SDK (v.3.2.0) and H5BP (v4.0.0). Feel free to clone and begin using.
-REPO: https://github.com/TheMakboul/CI_H5BP_FB  
+Another repo exists containing the structure for a basic facebook app using CI (v2.1.2), Facebook PHP SDK (v.3.2.0) and H5BP (v4.0.0). Feel free to clone and begin using.<br/>
+REPO: https://github.com/TheMakboul/CI_H5BP_FB<br/>
