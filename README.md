@@ -14,7 +14,7 @@ Description:
 Many IDEs will not support code completion for CI. Clone this repo and include it in the buildpath of your project for code completion to work.
 There is also a variable included for a Facebook object if you are developing an FB app using CI. The libraries for the FB api are NOT INCLUDED here (see NOTE below), you would add those under your application libraries and code completion for the Facebook API should automatically work.
 
-The following files are changed from the code CI 2.1.2:
+The following files are changed from the core CI 2.1.2:
 =======================================================
 user_guide/ - Removed<br/>
 system/core/Controller.php - Modified<br/>
